@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mohammed Kamil Nyaba Abdul-Razak</h1>
-<h3 align="center">Full-Stack Developer | Web3 Explorer | Builder of Clean,  🚀</h3>
+<h3 align="center">Full-Stack Developer | Web3 Explorer | Builder of Clean, Scalable Stuff 🚀</h3>
 
 ---
 

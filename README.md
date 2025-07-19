@@ -43,21 +43,6 @@ Burp Suite, Nmap, Metasploit, OWASP ZAP, Kali Linux
 
 ---
 
-### 🔥 Featured Projects
-
-#### **🧑‍💻 JobFi – Decentralized Job Board**
-> A Web3 job board platform connecting talent with blockchain companies. Integrated with MetaMask and smart contracts.
-- Stack: Next.js, Solidity, Ethers.js, MongoDB  
-- 🔗 [GitHub Repo](https://github.com/CodeMaesttro/)
-- 🌐 [Live Demo](https://jobfi.xyz) 
-
-#### **📚 School Management System**
-> A full-featured school system with real-time fee tracking, integrated with bank APIs and admin dashboard.
-- Stack: Laravel, MySQL, Bootstrap, JavaScript  
-- 🔗 [GitHub Repo](#)
-
----
-
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-kamil-336521245)

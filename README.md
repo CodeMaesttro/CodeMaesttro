@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mohammed Kamil Nyaba</h1>
+<h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
 <h3 align="center"> Full-Stack Developer | Web3 Builder | Penetration Tester </h3>
 
 ---

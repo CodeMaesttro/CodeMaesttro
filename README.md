@@ -16,9 +16,9 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 ### 🧠 About Me
 
 - 💻 Full-stack engineer skilled in **PHP (Laravel)**, **JavaScript/TypeScript**, and **Python**
-- 🔐 Penetration tester with experience using tools like **Burp Suite**, **Metasploit**, **OWASP ZAP**, and more
+- 🔐 Penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
 - 🌐 Web3 enthusiast building dApps with **Solidity**, **Ethers.js**, and **Hardhat**
-- 🛠️ Versatile in backend, frontend, DevOps, and security engineering
+- 🛠️ Comfortable across backend, frontend, DevOps, and security
 
 ---
 
@@ -81,20 +81,6 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-kamil-336521245)
 - ✉️ malbakamil0087@gmail.com
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaesttro&show_icons=true&theme=radical&hide=contribs&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaesttro&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- Optional: Language card with repo override -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaesttro&layout=compact&theme=radical&hide=C,C%2B%2B" alt="Top Languages" />
-</p>
 ---
 
 ### ⚡ Fun Fact

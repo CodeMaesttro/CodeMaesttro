@@ -15,11 +15,10 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 
 ### 🧠 About Me
 
-- 💻 Full-stack engineer skilled in **PHP (Laravel)**, **JavaScript/TypeScript**, and **Python**
-- 🔐 Penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
-- 🌐 Web3 enthusiast building dApps with **Solidity**, **Ethers.js**, and **Hardhat**
-- 🛠️ Comfortable across backend, frontend, DevOps, and security
-
+- 💻 Full-stack developer with strong proficiency in **PHP (Laravel)**, **JavaScript/TypeScript**, and **Python**
+- 🔐 Passionate penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
+- 🌐 Web3 enthusiast focused on building decentralized applications using **Solidity**, **Ethers.js**, and **Hardhat**
+- 🛠️ Versatile across backend, frontend, DevOps, and cybersecurity — building secure, scalable systems from end to end
 ---
 
 <details>

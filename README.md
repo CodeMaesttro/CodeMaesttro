@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
-<h3 align="center">🚀 Full-Stack Developer | Web3 Builder | PenetrationTester</h3>
+<h3 align="center">🚀 Full-Stack Developer | Web3 Builder | Penetration Tester</h3>
 <p align="center">I build secure, scalable apps — and I break things (legally) to make them better 💥</p>
 
 ---

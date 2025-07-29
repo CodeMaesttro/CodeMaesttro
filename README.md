@@ -85,5 +85,5 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 
 ### ⚡ Fun Fact
 
-> I don’t just write code — I break it too!  
-> Secure by design, hack by nature 🔓💡
+> If there’s a bug, I’ll find it — and probably write a script to hunt its family too 🐞🔍
+

@@ -1,11 +1,9 @@
-<!-- Core Dev 👨‍💻 | Full-Stack • Web3 • Pentester -->
-
 <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
-<h3 align="center">👨‍💻 Core Dev | Full-Stack • Web3 • Pentester</h3>
+<h3 align="center">👨‍💻 Core Dev | Full-Stack • Web3 • Pentester | A proclaimed CEH</h3>
 <p align="center"><em>Building secure systems. Breaking them to make them better.</em></p>
 
 <p align="center">I create scalable, robust apps — and test their limits (legally) to ensure quality 💥</p>
@@ -22,6 +20,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 - 💻 Full-stack developer with strong proficiency in **PHP (Laravel)**, **JavaScript/TypeScript**, and **Python**
 - 🔐 Passionate penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
 - 🌐 Web3 enthusiast focused on building decentralized applications using **Solidity**, **Ethers.js**, and **Hardhat**
+- 🛡️ A proclaimed Certified Ethical Hacker (CEH) — passionate about ethical hacking and cybersecurity best practices
 - 🛠️ Versatile across backend, frontend, DevOps, and cybersecurity — building secure, scalable systems from end to end
 
 ---

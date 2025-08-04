@@ -5,6 +5,8 @@
 </p>
 
 <h3 align="center">🚀 Full-Stack Developer | Web3 Builder | Penetration Tester</h3>
+<!-- Core Dev 👨‍💻 | Full-Stack • Web3 • Pentester -->
+
 <p align="center">I build secure, scalable apps — and I break things (legally) to make them better 💥</p>
 
 ---

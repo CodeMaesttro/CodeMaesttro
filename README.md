@@ -79,7 +79,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 
 - 💼 [GitHub](https://github.com/CodeMaesttro)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-kamil-336521245)
-- ✉️ malbakamil0087@gmail.com 
+- ✉️ 
 
 ---
 

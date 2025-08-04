@@ -1,13 +1,14 @@
+<!-- Core Dev 👨‍💻 | Full-Stack • Web3 • Pentester -->
 
 <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | Web3 Builder | Penetration Tester</h3>
-<!-- Core Dev 👨‍💻 | Full-Stack • Web3 • Pentester -->
+<h3 align="center">👨‍💻 Core Dev | Full-Stack • Web3 • Pentester</h3>
+<p align="center"><em>Building secure systems. Breaking them to make them better.</em></p>
 
-<p align="center">I build secure, scalable apps — and I break things (legally) to make them better 💥</p>
+<p align="center">I create scalable, robust apps — and test their limits (legally) to ensure quality 💥</p>
 
 ---
 
@@ -22,6 +23,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 - 🔐 Passionate penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
 - 🌐 Web3 enthusiast focused on building decentralized applications using **Solidity**, **Ethers.js**, and **Hardhat**
 - 🛠️ Versatile across backend, frontend, DevOps, and cybersecurity — building secure, scalable systems from end to end
+
 ---
 
 <details>
@@ -79,13 +81,20 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 
 ### 📫 Connect with Me
 
-- 💼 [GitHub](https://github.com/CodeMaesttro)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-kamil-336521245)
-- ✉️ malbakamil0087@gmail.com
+<p align="center">
+  <a href="https://github.com/CodeMaesttro" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-kamil-336521245" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a> &nbsp;&nbsp;
+  <a href="mailto:malbakamil0087@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
 
 > If there’s a bug, I’ll find it — and probably write a script to hunt its family too 🐞🔍
-

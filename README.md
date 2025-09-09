@@ -19,7 +19,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
 
 - 💻 Full-stack developer with strong proficiency in **PHP (Laravel)**, **JavaScript/TypeScript**, and **Python**
 - 🔐 Passionate penetration tester experienced with tools like [Burp Suite](https://portswigger.net/burp), [Metasploit](https://www.metasploit.com/), [OWASP ZAP](https://www.zaproxy.org/), and more
-- 🌐 Web3 enthusiast focused on building decentralized applications using **Solidity**, **Ethers.js**, and **Hardhat**
+- 🌐 Web3 enthusiast focused on building decentralized applications using **Solidity**, **Move (Sui)**, **Ethers.js**, and **Hardhat**
 - 🛡️ A proclaimed Certified Ethical Hacker (CEH) — passionate about ethical hacking and cybersecurity best practices
 - 🛠️ Versatile across backend, frontend, DevOps, and cybersecurity — building secure, scalable systems from end to end
 
@@ -36,6 +36,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Move-6D4AFF?style=for-the-badge&logo=sui&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -52,6 +53,7 @@ I specialize in crafting secure, scalable, and decentralized applications using 
   <b>Web3 & Blockchain</b><br>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardhat-F6C915?style=for-the-badge&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sui-6D4AFF?style=for-the-badge&logo=sui&logoColor=white"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black"/>
 </p>
 

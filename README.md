@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
-<h3 align="center">👨‍💻  | Full-Stack • Web3 • Pentester | A proclaimed CEH</h3>
+<h3 align="center">👨‍💻 Core Dev  | Full-Stack • Web3 • Pentester | A proclaimed CEH</h3>
 <p align="center"><em>Building secure systems. Breaking them to make them better.</em></p>
 
 <p align="center">I create scalable, robust apps — and test their limits (legally) to ensure quality 💥</p>

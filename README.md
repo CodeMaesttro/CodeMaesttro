@@ -39,6 +39,25 @@ My work sits at the intersection of **software engineering and cybersecurity** �
 
 ---
 
+## 🗂️ Security Projects
+
+### 🔹 Vulnerable Web App
+- Built a Node.js application intentionally vulnerable to **SQL Injection, XSS, and broken authentication**
+- Practiced **exploiting vulnerabilities and patching them**
+<!-- - Repo: [github.com/CodeMaesttro/vulnerable-node-app](#)-->
+
+### 🔹 Secured Web App
+- Secured the above app with **JWT authentication, RBAC, input validation, and rate limiting**
+- Demonstrates **shift-left security** and production-ready practices
+<!-- - Repo: [github.com/CodeMaesttro/secure-node-app](#)-->
+
+### 🔹 Security Writeups
+- Documented OWASP Top 10 vulnerabilities with real examples
+- Step-by-step fixes and mitigation strategies
+<!-- - Repo: [github.com/CodeMaesttro/security-writeups](#)-->
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Frontend

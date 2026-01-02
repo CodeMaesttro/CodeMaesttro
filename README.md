@@ -19,7 +19,7 @@ My work sits at the intersection of **software engineering and cybersecurity** �
 - 🧩 Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
 - 🛡️ Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
 - 🧪 Hands-on experience **testing, exploiting, and fixing vulnerabilities**
-- 🌐 Familiar with integrating **Web3 components** (Solidity & Ethereum tooling) with security in mind
+- 🌐 Familiar with integrating **Web3 components** (Solidity,MOVE & Ethereum tooling) with security in mind
 
 ---
 

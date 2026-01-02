@@ -1,58 +1,80 @@
-## <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1> <p align="center">
-<p align="center">   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/> </p>
+## <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
 
-👨‍💻 **Full-Stack Software Engineer**  
-🔐 **Security-Focused Web Applications**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
 
-I build **secure, scalable, and production-ready web applications** — from backend APIs to modern user interfaces.  
-My work combines strong full-stack engineering with **security best practices** to ensure systems are reliable, performant, and resilient.
+👨‍💻 **Application Security Engineer**  
+🔐 **Securing Web Applications & APIs**
+
+I specialize in **building and securing modern web applications**.  
+My work sits at the intersection of **software engineering and cybersecurity** — ensuring applications are not just functional, but **secure by design**.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer specializing in **Laravel, Node.js, Next.js, and modern databases**
-- 🧩 Experienced in building **real-world systems**: dashboards, APIs, authentication, and role-based platforms
-- 🛡️ Security-aware engineer applying **OWASP best practices** throughout the development lifecycle
-- 🔐 Hands-on experience testing applications using tools like **Burp Suite, Metasploit, and OWASP ZAP**
-- 🌐 Experience integrating **Web3 components** using Solidity and modern Ethereum tooling
+- 🔐 **Application Security Engineer** with a strong **full-stack development background**
+- 💻 Experienced in securing **web applications, APIs, and authentication systems**
+- 🧩 Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
+- 🛡️ Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
+- 🧪 Hands-on experience **testing, exploiting, and fixing vulnerabilities**
+- 🌐 Familiar with integrating **Web3 components** (Solidity & Ethereum tooling) with security in mind
+
+---
+
+## 🛡️ Application Security Focus
+
+- Secure authentication & authorization (JWT, sessions, RBAC)
+- Input validation & data sanitization
+- Preventing common vulnerabilities:
+  - SQL Injection
+  - XSS
+  - CSRF
+  - IDOR
+  - Broken Access Control
+- API security & rate limiting
+- Secure configuration & secrets management
+- Secure CI/CD fundamentals (DevSecOps mindset)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 🔹 Frontend
 - Next.js, React
 - Tailwind CSS
 
-**Backend**
+### 🔹 Backend
 - Node.js (Express)
 - PHP (Laravel)
 - REST APIs & Authentication
 
-**Databases**
+### 🔹 Databases
 - MongoDB
 - MySQL / PostgreSQL
 
-**Security**
+### 🔹 Security Tools & Practices
 - OWASP Top 10
-- Web Application Security
-- Burp Suite, Metasploit, OWASP ZAP
+- Web Application Security Testing
+- Burp Suite
+- OWASP ZAP
+- Metasploit (fundamentals)
 
-**DevOps & Tools**
+### 🔹 DevOps & Environment
 - Git & GitHub
 - Linux
-- CI/CD (basic)
+- CI/CD (foundations)
 - Docker (fundamentals)
 
 ---
 
 ## 🚀 What I Focus On
 
-- Building **secure, scalable web platforms**
-- Designing clean backend architectures
-- Writing maintainable, production-grade code
-- Identifying and mitigating security risks early
+- Designing and securing **web applications & APIs**
+- Identifying and fixing **application-layer vulnerabilities**
+- Writing **secure, maintainable, production-grade code**
+- Embedding security early in the development lifecycle (**shift-left security**)
 
 ---
 
@@ -75,4 +97,4 @@ My work combines strong full-stack engineering with **security best practices** 
 ---
 
 ⚡ **Fun Fact**  
-If there’s a bug, I’ll find it — and probably automate its detection 🐞🤖
+If there’s a vulnerability, I’ll find it — and if it’s critical, I’ll fix it before it ships 🐞🔐

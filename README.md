@@ -66,6 +66,7 @@ My work sits at the intersection of **software engineering and cybersecurity** â
 
 ### ðŸ”¹ Backend
 - Node.js (Express)
+- Python (Django)
 - PHP (Laravel)
 - REST APIs & Authentication
 

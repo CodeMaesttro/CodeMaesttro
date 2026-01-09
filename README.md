@@ -41,10 +41,13 @@ My work sits at the intersection of **software engineering and cybersecurity** �
 
 ## 🗂️ Security Projects
 
-### 🔹 Vulnerable Web App
-- Built a Node.js application intentionally vulnerable to **SQL Injection, XSS, and broken authentication**
-- Practiced **exploiting vulnerabilities and patching them**
-<!-- - Repo: [github.com/CodeMaesttro/vulnerable-node-app](#)-->
+### 🔹 BadBank — Vulnerable Web App (AppSec Training Project)
+- Built a Flask (Python) banking simulation intentionally vulnerable to SQLi, XSS, CSRF, IDOR and Broken Access Control
+- Practiced exploiting vulnerabilities and then documenting secure fixes
+- Demonstrates offensive + defensive application security skills
+- Repo: https://github.com/CodeMaesttro/BadBank
+
+
 
 ### 🔹 Secured Web App
 - Secured the above app with **JWT authentication, RBAC, input validation, and rate limiting**

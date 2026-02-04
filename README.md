@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there 👋, I'm Mohammed Kamil</h1>
+## <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>

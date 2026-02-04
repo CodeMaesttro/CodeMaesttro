@@ -8,7 +8,7 @@
 🔐 **Securing Web Applications & APIs**
 
 I specialize in **building and securing modern web applications**.  
-My work sits at the intersection of **software engineering and cybersecurity** — ensuring applications are not just functional, but **secure by design**.
+My work sits at the intersection of **software engineering and cybersecurity**, ensuring applications are not just functional, but **secure by design**.
 
 ---
 
@@ -120,4 +120,4 @@ My work sits at the intersection of **software engineering and cybersecurity** �
 ---
 
 ⚡ **Fun Fact**  
-If there’s a vulnerability, I’ll find it — and if it’s critical, I’ll fix it before it ships 🐞🔐
+If there’s a vulnerability, I’ll find it. If it’s critical, I’ll fix it before it ships 🐞🔐

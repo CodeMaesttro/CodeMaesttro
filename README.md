@@ -41,7 +41,7 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 
 ## 🗂️ Security Projects
 
-### 🔹 BadBank — Vulnerable Web App (AppSec Training Project)
+### 🔹 BadBank - Vulnerable Web App (AppSec Training Project)
 - Built a Flask (Python) banking simulation intentionally vulnerable to SQLi, XSS, CSRF, IDOR and Broken Access Control
 - Practiced exploiting vulnerabilities and then documenting secure fixes
 - Demonstrates offensive + defensive application security skills

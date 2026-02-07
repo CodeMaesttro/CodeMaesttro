@@ -12,7 +12,7 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔐 **Application Security Engineer** with a strong **full-stack development background**
 - 💻 Experienced in securing **web applications, APIs, and authentication systems**
@@ -92,7 +92,7 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 
 ---
 
-## 🚀 What I Focus On
+## What I Focus On
 
 - Designing and securing **web applications & APIs**
 - Identifying and fixing **application-layer vulnerabilities**

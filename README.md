@@ -5,10 +5,10 @@
 </p>
 
 👨‍💻 **Application Security Engineer**  
-🔐 **Securing Web Applications & APIs**
+🔐 **Web & API Security | Blockchain Security**
 
 I specialize in **building and securing modern web applications**.  
-My work sits at the intersection of **software engineering and cybersecurity**, ensuring applications are not just functional, but **secure by design**.
+My work sits at the intersection of **software engineering, cybersecurity, and blockchain**, ensuring applications are **functional, secure, and production-ready**.
 
 ---
 
@@ -19,7 +19,7 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 - 🧩 Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
 - 🛡️ Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
 - 🧪 Hands-on experience **testing, exploiting, and fixing vulnerabilities**
-- 🌐 Familiar with integrating **Web3 components** (MOVE, Solidity & Ethereum tooling) with security in mind
+- 🌐 Familiar with **Web3 / Blockchain security** (MOVE, Solidity & Ethereum tooling)
 
 ---
 
@@ -28,36 +28,30 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 - Secure authentication & authorization (JWT, sessions, RBAC)
 - Input validation & data sanitization
 - Preventing common vulnerabilities:
-  - SQL Injection
-  - XSS
-  - CSRF
-  - IDOR
+  - SQL Injection (SQLi)
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - Insecure Direct Object References (IDOR)
   - Broken Access Control
 - API security & rate limiting
 - Secure configuration & secrets management
-- Secure CI/CD fundamentals (DevSecOps mindset)
+- Secure CI/CD fundamentals (**DevSecOps mindset**)
 
 ---
 
 ## 🗂️ Security Projects
 
-### 🔹 BadBank - Vulnerable Web App (AppSec Training Project)
-- Built a Flask (Python) banking simulation intentionally vulnerable to SQLi, XSS, CSRF, IDOR and Broken Access Control
-- Practiced exploiting vulnerabilities and then documenting secure fixes
-- Demonstrates offensive + defensive application security skills
-- Repo: https://github.com/CodeMaesttro/BadBank
-
-
+### 🔹 BadBank - Vulnerable Web App (AppSec Training)
+- Built a Flask (Python) banking simulation intentionally vulnerable to SQLi, XSS, CSRF, IDOR, and Broken Access Control
+- Exploited vulnerabilities and documented **secure fixes**
+- Repo: [BadBank](https://github.com/CodeMaesttro/BadBank)
 
 ### 🔹 Secured Web App
-- Secured the above app with **JWT authentication, RBAC, input validation, and rate limiting**
+- Applied **JWT authentication, RBAC, input validation, and rate limiting**
 - Demonstrates **shift-left security** and production-ready practices
-<!-- - Repo: [github.com/CodeMaesttro/secure-node-app](#)-->
 
 ### 🔹 Security Writeups
-- Documented OWASP Top 10 vulnerabilities with real examples
-- Step-by-step fixes and mitigation strategies
-<!-- - Repo: [github.com/CodeMaesttro/security-writeups](#)-->
+- Documented **OWASP Top 10 vulnerabilities** with step-by-step mitigation strategies
 
 ---
 
@@ -69,7 +63,7 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 
 ### 🔹 Backend
 - Node.js (Express)
-- Python (Django)
+- Python (Django & Flask)
 - PHP (Laravel)
 - REST APIs & Authentication
 
@@ -77,9 +71,8 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 - MongoDB
 - MySQL / PostgreSQL
 
-### 🔹 Security Tools & Practices
+### 🔹 Security Tools
 - OWASP Top 10
-- Web Application Security Testing
 - Burp Suite
 - OWASP ZAP
 - Metasploit (fundamentals)
@@ -87,8 +80,8 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 ### 🔹 DevOps & Environment
 - Git & GitHub
 - Linux
-- CI/CD (foundations)
 - Docker (fundamentals)
+- CI/CD (foundations)
 
 ---
 
@@ -120,4 +113,4 @@ My work sits at the intersection of **software engineering and cybersecurity**, 
 ---
 
 ⚡ **Fun Fact**  
-If there’s a vulnerability, I’ll find it. If it’s critical, I’ll fix it before it ships 🐞🔐
+If there’s a vulnerability, I’ll find it — and if it’s critical, I’ll fix it before it ships 🐞🔐

@@ -14,12 +14,12 @@ My work sits at the intersection of **software engineering, cybersecurity, and b
 
 ## About Me
 
-- 🔐 **Application Security Engineer** with a strong **full-stack development background**
-- 💻 Experienced in securing **web applications, APIs, and authentication systems**
-- 🧩 Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
-- 🛡️ Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
-- 🧪 Hands-on experience **testing, exploiting, and fixing vulnerabilities**
-- 🌐 Familiar with **Web3 / Blockchain security** (MOVE, Solidity & Ethereum tooling)
+- **Application Security Engineer** with a strong **full-stack development background**
+- Experienced in securing **web applications, APIs, and authentication systems**
+- Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
+- Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
+- Hands-on experience **testing, exploiting, and fixing vulnerabilities**
+- Familiar with **Web3 / Blockchain security** (MOVE, Solidity & Ethereum tooling)
 
 ---
 

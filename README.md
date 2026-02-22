@@ -91,4 +91,4 @@
 ---
 
 ⚡ **Fun Fact**  
-If there’s a vulnerability, I’ll find it — and if it’s critical, I’ll fix it before it ships 🐞🔐
+If there’s a vulnerability, I’ll find it - and if it’s critical, I’ll fix it before it ships 🐞🔐

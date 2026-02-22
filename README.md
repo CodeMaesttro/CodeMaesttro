@@ -1,100 +1,76 @@
 <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=Everything+can+be+hacked!;Everything+is+Vulnerable!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Everything+can+be+hacked!;Everything+is+Vulnerable!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-👨‍💻 <b>Application Security Engineer</b><br>
-🔐 <b>Web & API Security | Blockchain Security</b>
+  👨‍💻 <b>Application Security Engineer</b><br>
+  🔐 <b>Web & API Security | Blockchain Security</b>
 </p>
 
----
-
-I specialize in **building and securing modern web applications**.  
-My work sits at the intersection of **software engineering, cybersecurity, and blockchain**, ensuring applications are **functional, secure, and production-ready**.
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-Top10-red?style=for-the-badge&logo=owasp&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BurpSuite-Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Web3-Security-blue?style=for-the-badge&logo=ethereum&logoColor=white" height="28"/>
+</p>
 
 ---
 
 ## About Me
 
-- **Application Security Engineer** with a strong **full-stack development background**
-- Experienced in securing **web applications, APIs, and authentication systems**
-- Build and review **real-world systems**: dashboards, APIs, RBAC platforms, and SaaS-style apps
-- Apply **OWASP Top 10** and secure coding best practices throughout the SDLC
-- Hands-on experience **testing, exploiting, and fixing vulnerabilities**
-- Familiar with **Web3 / Blockchain security** (MOVE, Solidity & Ethereum tooling)
+- Full-stack developer turned **Application Security Engineer**
+- Secure web apps, APIs, and authentication systems
+- Hands-on with **OWASP Top 10 vulnerabilities**, exploit testing, and fixes
+- Web3 / Blockchain security: MOVE, Solidity, Ethereum tooling
 
 ---
 
-## 🛡️ Application Security Focus
+## 🛡️ Focus Areas
 
-- Secure authentication & authorization (JWT, sessions, RBAC)
-- Input validation & data sanitization
-- Preventing common vulnerabilities:
-  - SQL Injection (SQLi)
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
-  - Insecure Direct Object References (IDOR)
-  - Broken Access Control
+- Authentication & RBAC security (JWT, sessions)
+- Input validation & sanitization
 - API security & rate limiting
-- Secure configuration & secrets management
-- Secure CI/CD fundamentals (**DevSecOps mindset**)
+- Mitigating SQLi, XSS, CSRF, IDOR, Broken Access Control
+- Secure CI/CD & DevSecOps practices
 
 ---
 
-## 🗂️ Security Projects
+## 🗂️ Projects
 
-### 🔹 BadBank - Vulnerable Web App (AppSec Training)
-- Built a Flask (Python) banking simulation intentionally vulnerable to SQLi, XSS, CSRF, IDOR, and Broken Access Control
-- Exploited vulnerabilities and documented **secure fixes**
+### 🔹 BadBank - Vulnerable Web App
+- Flask banking simulation intentionally vulnerable
+- Exploited & documented **secure fixes**
 - Repo: [BadBank](https://github.com/CodeMaesttro/BadBank)
 
 ### 🔹 Secured Web App
-- Applied **JWT authentication, RBAC, input validation, and rate limiting**
-- Demonstrates **shift-left security** and production-ready practices
+- Applied JWT auth, RBAC, validation, and rate limiting
+- Demonstrates **shift-left security** and production readiness
 
 ### 🔹 Security Writeups
-- Documented **OWASP Top 10 vulnerabilities** with step-by-step mitigation strategies
+- Step-by-step mitigation of **OWASP Top 10 vulnerabilities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
-- Next.js, React
-- Tailwind CSS
-
-### 🔹 Backend
-- Node.js (Express)
-- Python (Django & Flask)
-- PHP (Laravel)
-- REST APIs & Authentication
-
-### 🔹 Databases
-- MongoDB
-- MySQL / PostgreSQL
-
-### 🔹 Security Tools
-- OWASP Top 10
-- Burp Suite
-- OWASP ZAP
-- Metasploit (fundamentals)
-
-### 🔹 DevOps & Environment
-- Git & GitHub
-- Linux
-- Docker (fundamentals)
-- CI/CD (foundations)
+**Frontend:** Next.js, React, Tailwind CSS  
+**Backend:** Node.js, Python (Django/Flask), PHP (Laravel)  
+**Databases:** MongoDB, MySQL/PostgreSQL  
+**Security Tools:** OWASP ZAP, Burp Suite, Metasploit (fundamentals)  
+**DevOps:** Git, Linux, Docker, CI/CD
 
 ---
 
-## What I Focus On
+## 📈 GitHub Stats
 
-- Designing and securing **web applications & APIs**
-- Identifying and fixing **application-layer vulnerabilities**
-- Writing **secure, maintainable, production-grade code**
-- Embedding security early in the development lifecycle (**shift-left security**)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaesttro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
+  &nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaesttro&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
+</p>
 
 ---
 

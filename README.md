@@ -1,6 +1,9 @@
 ## <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=Everything+can+be+hacked!;Everything+is+Vulnerable!" alt="Typing SVG" />
+</p>
   <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>-->
 </p>
 

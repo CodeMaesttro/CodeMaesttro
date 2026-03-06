@@ -6,7 +6,7 @@
 
 <p align="center">
   👨‍💻 <b>Application Security Engineer</b><br>
-  🔐 <b>Web & API Security | Blockchain Security</b>
+  🔐 <b>Web & API Security | Web3 Security</b>
 </p>
 
 <p align="center">

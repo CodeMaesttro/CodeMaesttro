@@ -7,7 +7,6 @@
 <p align="center">
   👨‍💻 <b>AppSec & Web3 Security Engineer</b><br>
   🔐 <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
-  🇬🇭 <b>Ghana</b>
 </p>
 
 <p align="center">
@@ -26,9 +25,9 @@
 
 - 🔄 Full-Stack Developer **→** AppSec & Web3 Security Engineer
 - 🔐 Securing web apps, APIs, authentication systems & smart contracts
-- 🧨 Hands-on with **OWASP Top 10** — exploiting and documenting secure fixes
+- 🧨 Hands-on with **OWASP Top 10** - exploiting and documenting secure fixes
 - ⛓️ Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
-- 🏗️ Building in public — open source security tools & writeups
+- 🏗️ Building in public - open source security tools & writeups
 - 🎯 Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
@@ -46,7 +45,7 @@
 
 ## 🗂️ Projects
 
-### 🔹 [BadBank — Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
+### 🔹 [BadBank - Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
 - Flask banking simulation intentionally built with vulnerabilities
 - Exploited **SQLi, XSS, CSRF, IDOR & Broken Access Control**
 - Documented step-by-step **secure fixes** for each vulnerability
@@ -81,9 +80,7 @@
 <img src="https://streak-stats.demolab.com/?user=CodeMaesttro&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeMaesttro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
-</p>
+
 
 ---
 
@@ -110,4 +107,4 @@
 ---
 
 ⚡ **Fun Fact**  
-I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them — legally. 🔐
+I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them - legally. 🔐

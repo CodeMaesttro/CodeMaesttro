@@ -52,14 +52,14 @@
 - Built for AppSec learning and practice
 - **Tech:** Python, Flask, SQLite
 
+### 🔹 [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups.git) *(In Progress)*
+- Step-by-step exploitation and mitigation of **OWASP Top 10 vulnerabilities**
+- Real-world scenarios with code examples
+
 ### 🔹 Secured Web App *(Coming Soon)*
 - Production-ready app with JWT auth, RBAC, input validation & rate limiting
 - Demonstrates **shift-left security** principles
 - **Tech:** Node.js, React, PostgreSQL
-
-### 🔹 Security Writeups *(In Progress)*
-- Step-by-step exploitation and mitigation of **OWASP Top 10 vulnerabilities**
-- Real-world scenarios with code examples
 
 ---
 

@@ -1,56 +1,66 @@
 <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Everything+can+be+hacked!;Everything+is+Vulnerable!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Everything+can+be+hacked!;Everything+is+Vulnerable!;Break+it+before+they+do!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  👨‍💻 <b>Application Security Engineer</b><br>
-  🔐 <b>Web & API Security | Web3 Security</b>
+  👨‍💻 <b>AppSec & Web3 Security Engineer</b><br>
+  🔐 <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
+  🇬🇭 <b>Ghana</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP-Top10-red?style=for-the-badge&logo=owasp&logoColor=white" height="28"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/BurpSuite-Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" height="28"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Web3-Security-blue?style=for-the-badge&logo=ethereum&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethical-Hacking-darkgreen?style=for-the-badge&logo=kalilinux&logoColor=white" height="28"/>
 </p>
 
 ---
 
-## About Me
+## 👤 About Me
 
-- Full-stack developer turned **Application Security Engineer**
-- Secure web apps, APIs, and authentication systems
-- Hands-on with **OWASP Top 10 vulnerabilities**, exploit testing, and fixes
-- Web3 / Blockchain security: MOVE, Solidity, Ethereum tooling
+- 🔄 Full-Stack Developer **→** AppSec & Web3 Security Engineer
+- 🔐 Securing web apps, APIs, authentication systems & smart contracts
+- 🧨 Hands-on with **OWASP Top 10** — exploiting and documenting secure fixes
+- ⛓️ Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
+- 🏗️ Building in public — open source security tools & writeups
+- 🎯 Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
 
 ## 🛡️ Focus Areas
 
-- Authentication & RBAC security (JWT, sessions)
-- Input validation & sanitization
-- API security & rate limiting
-- Mitigating SQLi, XSS, CSRF, IDOR, Broken Access Control
+- Authentication & RBAC security (JWT, sessions, OAuth)
+- Input validation, sanitization & injection prevention
+- API security, rate limiting & broken access control
+- Mitigating SQLi, XSS, CSRF, IDOR & Broken Access Control
+- Smart contract vulnerability research
 - Secure CI/CD & DevSecOps practices
 
 ---
 
 ## 🗂️ Projects
 
-### 🔹 BadBank - Vulnerable Web App
-- Flask banking simulation intentionally vulnerable
-- Exploited & documented **secure fixes**
-- Repo: [BadBank](https://github.com/CodeMaesttro/BadBank)
+### 🔹 [BadBank — Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
+- Flask banking simulation intentionally built with vulnerabilities
+- Exploited **SQLi, XSS, CSRF, IDOR & Broken Access Control**
+- Documented step-by-step **secure fixes** for each vulnerability
+- Built for AppSec learning and practice
+- **Tech:** Python, Flask, SQLite
 
-### 🔹 Secured Web App
-- Applied JWT auth, RBAC, validation, and rate limiting
-- Demonstrates **shift-left security** and production readiness
+### 🔹 Secured Web App *(Coming Soon)*
+- Production-ready app with JWT auth, RBAC, input validation & rate limiting
+- Demonstrates **shift-left security** principles
+- **Tech:** Node.js, React, PostgreSQL
 
-### 🔹 Security Writeups
-- Step-by-step mitigation of **OWASP Top 10 vulnerabilities**
+### 🔹 Security Writeups *(In Progress)*
+- Step-by-step exploitation and mitigation of **OWASP Top 10 vulnerabilities**
+- Real-world scenarios with code examples
 
 ---
 
@@ -59,7 +69,8 @@
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Node.js, Python (Django/Flask), PHP (Laravel)  
 **Databases:** MongoDB, MySQL/PostgreSQL  
-**Security Tools:** OWASP ZAP, Burp Suite, Metasploit (fundamentals)  
+**Security Tools:** Burp Suite, OWASP ZAP, Metasploit (fundamentals), Wireshark  
+**Web3:** Solidity, MOVE, Ethereum, Hardhat  
 **DevOps:** Git, Linux, Docker, CI/CD
 
 ---
@@ -70,16 +81,24 @@
 <img src="https://streak-stats.demolab.com/?user=CodeMaesttro&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CodeMaesttro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeMaesttro" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/CodeMaesttro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammed-kamil-336521245/" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/malba0x" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-kamil-336521245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   &nbsp;&nbsp;
@@ -91,4 +110,4 @@
 ---
 
 ⚡ **Fun Fact**  
-If there’s a vulnerability, I’ll find it - and if it’s critical, I’ll fix it before it ships 🐞🔐
+I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them — legally. 🔐

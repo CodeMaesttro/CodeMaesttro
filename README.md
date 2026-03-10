@@ -43,6 +43,15 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- Advanced Web Application Penetration Testing
+- Smart Contract Auditing & vulnerability research
+- Advanced Burp Suite techniques & automation
+- Exploit development for common web vulnerabilities
+- Secure architecture & threat modeling
+- DevSecOps – integrating security into CI/CD pipelines
+
 ## 🗂️ Projects
 
 ### 🔹 [BadBank - Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
@@ -87,10 +96,6 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeMaesttro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/malba0x" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>

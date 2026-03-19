@@ -23,12 +23,12 @@
 
 ## 👤 About Me
 
-- 🔄 Full-Stack Developer **→** AppSec & Web3 Security Engineer
-- 🔐 Securing web apps, APIs, authentication systems & smart contracts
-- 🧨 Hands-on with **OWASP Top 10** - exploiting and documenting secure fixes
-- ⛓️ Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
-- 🏗️ Building in public - open source security tools & writeups
-- 🎯 Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
+-  Full-Stack Developer **→** AppSec & Web3 Security Engineer
+-  Securing web apps, APIs, authentication systems & smart contracts
+-  Hands-on with **OWASP Top 10** - exploiting and documenting secure fixes
+-  Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
+-  Building in public - open source security tools & writeups
+-  Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
 

@@ -7,6 +7,7 @@
 <p align="center">
   <b>AppSec & Web3 Security Engineer</b><br>
   <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
+  <b>Ghana</b>
 </p>
 
 <p align="center">
@@ -74,14 +75,6 @@
 **Security Tools:** Burp Suite, OWASP ZAP, Metasploit, Wireshark  
 **Web3:** Solidity, MOVE, Ethereum, Hardhat  
 **DevOps:** Git, Linux, Docker, CI/CD
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=CodeMaesttro&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
-</p>
 
 ---
 

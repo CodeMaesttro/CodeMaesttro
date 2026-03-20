@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  👨‍💻 <b>AppSec & Web3 Security Engineer</b><br>
-  🔐 <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
-  🇬🇭 <b>Ghana</b>
+  <b>AppSec & Web3 Security Engineer</b><br>
+  <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
+  <b>Ghana</b>
 </p>
 
 <p align="center">
@@ -22,18 +22,26 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-- 🔄 Full-Stack Developer **→** AppSec & Web3 Security Engineer
-- 🔐 Securing web apps, APIs, authentication systems & smart contracts
-- 🧨 Hands-on with **OWASP Top 10** — exploiting vulnerabilities and documenting secure fixes
-- ⛓️ Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
-- 🏗️ Building in public — open source security tools & writeups
-- 🎯 Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
+- Full-Stack Developer **→** AppSec & Web3 Security Engineer
+- Securing web apps, APIs, authentication systems & smart contracts
+- Hands-on with **OWASP Top 10** — exploiting vulnerabilities and documenting secure fixes
+- Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
+- Building in public — open source security tools & writeups
+- Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
 
-## 🛡️ Focus Areas
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| eJPT — eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
+
+---
+
+## Focus Areas
 
 - Authentication & RBAC security (JWT, sessions, OAuth)
 - Input validation, sanitization & injection prevention
@@ -44,22 +52,22 @@
 
 ---
 
-## 🗂️ Projects
+## Projects
 
-### 🔹 [BadBank — Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
+### [BadBank — Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
 - Flask banking simulation intentionally built with real-world vulnerabilities
 - Exploited **SQLi, XSS, CSRF, IDOR & Broken Access Control**
 - Documented step-by-step **secure fixes** for each vulnerability
 - Built for hands-on AppSec learning and practice
 - **Tech:** Python, Flask, SQLite
 
-### 🔹 [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups.git)
+### [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups.git)
 - Step-by-step exploitation and mitigation of **OWASP Top 10 vulnerabilities**
 - Real-world attack scenarios with code examples and secure fixes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Node.js, Python (Django/Flask), PHP (Laravel)  
@@ -70,7 +78,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CodeMaesttro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
@@ -82,7 +90,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/CodeMaesttro" target="_blank">
@@ -104,5 +112,5 @@
 
 ---
 
-⚡ **Fun Fact**  
-I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them — legally. 🔐
+**Fun Fact**  
+I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them — legally.

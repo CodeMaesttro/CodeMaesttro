@@ -7,7 +7,6 @@
 <p align="center">
   <b>AppSec & Web3 Security Engineer</b><br>
   <b>Web & API Security | Web3 Security | Full-Stack Background</b><br>
-  <b>Ghana</b>
 </p>
 
 <p align="center">

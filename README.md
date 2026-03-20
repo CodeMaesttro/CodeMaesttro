@@ -52,7 +52,7 @@
 - Secure architecture & threat modeling
 - DevSecOps – integrating security into CI/CD pipelines
 
-## 🗂️ Projects
+Projects
 
 ### 🔹 [BadBank - Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
 - Flask banking simulation intentionally built with vulnerabilities
@@ -83,7 +83,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=CodeMaesttro&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>

@@ -21,7 +21,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 -  Full-Stack Developer **→** AppSec & Web3 Security Engineer
 -  Securing web apps, APIs, authentication systems & smart contracts
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛡️ Focus Areas
+## Focus Areas
 
 - Authentication & RBAC security (JWT, sessions, OAuth)
 - Input validation, sanitization & injection prevention
@@ -43,7 +43,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 - Advanced Web Application Penetration Testing
 - Smart Contract Auditing & vulnerability research
@@ -72,7 +72,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Node.js, Python (Django/Flask), PHP (Laravel)  
@@ -93,7 +93,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://x.com/malba0x" target="_blank">

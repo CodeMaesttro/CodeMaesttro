@@ -26,9 +26,9 @@
 
 - Full-Stack Developer **→** AppSec & Web3 Security Engineer
 - Securing web apps, APIs, authentication systems & smart contracts
-- Hands-on with **OWASP Top 10** — exploiting vulnerabilities and documenting secure fixes
+- Hands-on with **OWASP Top 10** - exploiting vulnerabilities and documenting secure fixes
 - Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
-- Building in public — open source security tools & writeups
+- Building in public - open source security tools & writeups
 - Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
@@ -37,7 +37,7 @@
 
 | Certification | Issuer | Status |
 |---|---|---|
-| eJPT — eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
+| eJPT - eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Projects
 
-### [BadBank — Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
+### [BadBank - Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
 - Flask banking simulation intentionally built with real-world vulnerabilities
 - Exploited **SQLi, XSS, CSRF, IDOR & Broken Access Control**
 - Documented step-by-step **secure fixes** for each vulnerability
@@ -101,4 +101,4 @@
 ---
 
 **Fun Fact**  
-I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them — legally.
+I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them - legally.

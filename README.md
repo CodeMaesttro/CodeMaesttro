@@ -72,10 +72,6 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeMaesttro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/malba0x" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>

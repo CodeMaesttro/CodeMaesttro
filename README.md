@@ -31,7 +31,7 @@
 - Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
 
 ---
-
+<!--
 ## Certifications
 
 | Certification | Issuer | Status |
@@ -39,7 +39,7 @@
 | eJPT - eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
 
 ---
-
+-->
 ## Focus Areas
 
 - Authentication & RBAC security (JWT, sessions, OAuth)
@@ -76,7 +76,7 @@
 **DevOps:** Git, Linux, Docker, CI/CD
 
 ---
-
+<!--
 ## Connect With Me
 
   <a href="https://x.com/malba0x" target="_blank">
@@ -93,7 +93,7 @@
 </p>
 
 ---
-
+-->
 **Fun Fact**  
 I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them - legally.
 

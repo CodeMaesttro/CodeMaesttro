@@ -23,23 +23,15 @@
 
 ## About Me
 
-- Full-Stack Developer **→** AppSec & Web3 Security Engineer
-- Securing web apps, APIs, authentication systems & smart contracts
-- Hands-on with **OWASP Top 10** - exploiting vulnerabilities and documenting secure fixes
+- Full-Stack Developer **->** AppSec & Web3 Security Engineer
+- I find, exploit, and fix real-world vulnerabilities
+- Hands-on with **OWASP Top 10** - exploitation, impact analysis and remediation
 - Web3 Security: Solidity, MOVE, Ethereum tooling & smart contract auditing
 - Building in public - open source security tools & writeups
-- Goal: Making the web and Web3 ecosystem safer, one vulnerability at a time
+- Goal: Make systems secure by design, not by patching later
 
 ---
-<!--
-## Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| eJPT - eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
-
----
--->
 ## Focus Areas
 
 - Authentication & RBAC security (JWT, sessions, OAuth)
@@ -54,10 +46,10 @@
 ## Projects
 
 ### [BadBank - Intentionally Vulnerable Web App](https://github.com/CodeMaesttro/BadBank)
-- Flask banking simulation intentionally built with real-world vulnerabilities
+- Built a vulnerable banking system to simulate real-world attack scenarios
 - Exploited **SQLi, XSS, CSRF, IDOR & Broken Access Control**
+- Demonstrated database compromise and account takeover
 - Documented step-by-step **secure fixes** for each vulnerability
-- Built for hands-on AppSec learning and practice
 - **Tech:** Python, Flask, SQLite
 
 ### [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups.git)
@@ -76,9 +68,14 @@
 **DevOps:** Git, Linux, Docker, CI/CD
 
 ---
-<!--
+
 ## Connect With Me
 
+<p align="center">
+  <a href="https://github.com/CodeMaesttro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/malba0x" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>
@@ -93,7 +90,6 @@
 </p>
 
 ---
--->
+
 **Fun Fact**  
 I started as a Full-Stack Developer and realized the most important feature of any app is **security.** Now I build things AND break them - legally.
-

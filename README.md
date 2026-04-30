@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Application+Security+Engineer;Everything+can+be+hacked!;Break+it+before+they+do." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Everything+is+Vulnerable;Everything+can+be+hacked!;Break+it+before+they+do." alt="Typing SVG" />
 </p>
 
 <p align="center">

@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohammed Kamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Everything+is+Vulnerable!;Everything+can+be+hacked!;Break+it+before+they+do." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Web+applications+are+only+as+secure+as+their+design.;Security+is+built%2C+not+assumed.;Break+systems.+Build+them+better." />
 </p>
 
 <p align="center">
-  <b>Application Security Engineer &nbsp;|&nbsp; Full-Stack Developer</b><br>
-  <sub>Web & API Security &nbsp;·&nbsp; OWASP Top 10 &nbsp;·&nbsp; Offensive Security</sub>
+  <b>Full-Stack Engineer | Application Security (Offensive Web Security)</b><br>
+  <sub>OWASP Top 10 · Web & API Security · Secure Software Engineering</sub>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## About Me
 
 - Full-Stack Developer turned **Application Security Engineer**
-- I find, exploit, and fix real-world vulnerabilities in web apps and APIs
+- I identify, exploit, and remediate vulnerabilities in web applications and APIs.
 - Hands-on with **OWASP Top 10** - exploitation, impact analysis, and secure remediation
 - Building in public - open source security tools, writeups, and vulnerable-by-design labs
 - Goal: Make systems secure by design, not by patching after the fact

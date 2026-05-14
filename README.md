@@ -97,5 +97,5 @@
 ---
 
 <p align="center">
-  <sub>Started as a Full-Stack Developer. Realized the most important feature of any app is security.<br>Now I build things AND break them - legally.</sub>
+  <sub>Started as a Full-Stack Engineer. Realized the most important feature of any app is security.<br>Now I build things AND break them - legally.</sub>
 </p>

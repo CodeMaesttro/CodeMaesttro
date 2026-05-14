@@ -23,10 +23,10 @@
 
 ## About Me
 
-- Full-Stack Developer turned **Application Security Engineer**
+- Full-Stack Engineer transitioning into **Application Security**
 - I identify, exploit, and remediate vulnerabilities in web applications and APIs.
 - Hands-on with **OWASP Top 10** - exploitation, impact analysis, and secure remediation
-- Building in public - open source security tools, writeups, and vulnerable-by-design labs
+- Building in public — open source security tools, writeups, and vulnerable-by-design labs
 - Goal: Make systems secure by design, not by patching after the fact
 
 ---
@@ -48,7 +48,7 @@
 
 - Exploited **SQLi, XSS, CSRF, IDOR, and Broken Access Control** with documented attack walkthroughs
 - Demonstrated database compromise, session hijacking, and full account takeover
-- Documented step-by-step **secure fixes** for every vulnerability - attack AND defense
+- Documented step-by-step **secure fixes** for every vulnerability — covering both attack and defense
 - **Tech:** Python · Flask · SQLite
 
 ### [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups)
@@ -63,18 +63,19 @@
 
 ## Tech Stack
 
-**Security:** Burp Suite · OWASP ZAP · Metasploit · Wireshark · Kali Linux  
-**Backend:** Node.js · Python (Django/Flask) · PHP (Laravel)  
+**Security:** Burp Suite · OWASP ZAP · Nmap · Metasploit · Wireshark · sqlmap · Kali Linux  
+**Backend:** Node.js · Express.js · NestJS · Python (Flask/FastAPI) · PHP (Laravel)  
 **Frontend:** Next.js · React · Tailwind CSS  
-**Databases:** MongoDB · PostgreSQL · MySQL  
-**DevOps:** Docker · Git · Linux · CI/CD  
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis  
+**DevSecOps:** Docker · Git · Linux · GitHub Actions · CI/CD  
+**Cloud:** AWS (Basics)
 
 ---
 
 ## Certifications
 
--  **eJPT** - In Progress · INE Security
--  Next: eWPT · OSCP
+- **eJPT** — In Progress (INE Security)
+- Planned: eWPT · OSCP
 
 ---
 
@@ -97,5 +98,5 @@
 ---
 
 <p align="center">
-  <sub>Started as a Full-Stack Engineer. Realized the most important feature of any app is security.<br>Now I build things AND break them - legally.</sub>
+  <sub>Started as a Full-Stack Engineer. Realized the most important feature of any application is security.<br>Now I build systems and break them responsibly.</sub>
 </p>

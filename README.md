@@ -68,7 +68,6 @@
 **Frontend:** Next.js · React · Tailwind CSS  
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
 **DevSecOps:** Docker · Git · Linux · GitHub Actions · CI/CD  
-**Cloud:** AWS (Basics)
 
 ---
 

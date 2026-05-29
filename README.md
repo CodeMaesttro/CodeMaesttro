@@ -64,7 +64,7 @@
 ## Tech Stack
 
 **Security:** Burp Suite · OWASP ZAP · Nmap · Metasploit · Wireshark · sqlmap · Kali Linux  
-**Backend:** Node.js · Express.js · NestJS · Python (Flask/FastAPI) · PHP (Laravel)  
+**Backend:** Node.js · Express.js · Python (Flask/FastAPI) · PHP (Laravel)  
 **Frontend:** Next.js · React · Tailwind CSS  
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
 **DevSecOps:** Docker · Git · Linux · GitHub Actions · CI/CD  

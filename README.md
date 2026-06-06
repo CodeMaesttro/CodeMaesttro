@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Engineer | Application Security (Offensive Web Security)</b><br>
+  <b>Offensive AppSec Engineer | Full-Stack Dev</b><br>
   <sub>OWASP Top 10 · Web & API Security · Secure Software Engineering</sub>
 </p>
 

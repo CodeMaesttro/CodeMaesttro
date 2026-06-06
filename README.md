@@ -97,5 +97,5 @@
 ---
 
 <p align="center">
-  <sub>Started as a Full-Stack Engineer. Built systems. Realized security is the hardest part.<br>Now I break them to build them better.</sub>
+  <sub>Started as a Full-Stack Developer. Built systems. Realized security is the hardest part.<br>Now I break them to build them better.</sub>
 </p>

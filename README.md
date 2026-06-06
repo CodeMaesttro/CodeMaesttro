@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Offensive AppSec Engineer | Full-Stack Dev</b><br>
-  <sub>OWASP Top 10 · Web & API Security · Secure Software Engineering</sub>
+  <sub>OWASP Top 10 · Web & API Pentesting · Secure Software Engineering</sub>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## About Me
 
-- Full-Stack Engineer transitioning into **Application Security**
+- Offensive AppSec Engineer with a background in **Full-Stack Development**
 - I identify, exploit, and remediate vulnerabilities in web applications and APIs.
 - Hands-on with **OWASP Top 10** - exploitation, impact analysis, and secure remediation
 - Building in public — open source security tools, writeups, and vulnerable-by-design labs
@@ -97,5 +97,5 @@
 ---
 
 <p align="center">
-  <sub>Started as a Full-Stack Engineer. Realized the most important feature of any application is security.<br>Now I build systems and break them responsibly.</sub>
+  <sub>Started as a Full-Stack Engineer. Built systems. Realized security is the hardest part.<br>Now I break them to build them better.</sub>
 </p>

@@ -26,7 +26,7 @@
 - Offensive AppSec Engineer with a background in **Full-Stack Development**
 - I identify, exploit, and remediate vulnerabilities in web applications and APIs.
 - Hands-on with **OWASP Top 10** - exploitation, impact analysis, and secure remediation
-- Building in public — open source security tools, writeups, and vulnerable-by-design labs
+- Building in public - open source security tools, writeups, and vulnerable-by-design labs
 - Goal: Make systems secure by design, not by patching after the fact
 
 ---
@@ -73,7 +73,7 @@
 
 ## Certifications
 
-- **eJPT** — In Progress (INE Security)
+- **eJPT** - In Progress (INE Security)
 - Planned: eWPT · OSCP
 
 ---

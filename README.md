@@ -48,7 +48,7 @@
 
 - Exploited **SQLi, XSS, CSRF, IDOR, and Broken Access Control** with documented attack walkthroughs
 - Demonstrated database compromise, session hijacking, and full account takeover
-- Documented step-by-step **secure fixes** for every vulnerability — covering both attack and defense
+- Documented step-by-step **secure fixes** for every vulnerability - covering both attack and defense
 - **Tech:** Python · Flask · SQLite
 
 ### [Security Writeups](https://github.com/CodeMaesttro/Security-Writeups)

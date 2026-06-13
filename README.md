@@ -67,7 +67,7 @@
 **Backend:** Node.js · Express.js · Python (Flask/FastAPI) · PHP (Laravel)  
 **Frontend:** Next.js · React · Tailwind CSS  
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
-**DevSecOps:** Docker · Git · Linux · GitHub Actions · CI/CD  
+**DevSecOps:** Docker · Git · Linux · GitHub Actions · CI/CD · Nginx · VPS Deployment · Supervisor
 
 ---
 
